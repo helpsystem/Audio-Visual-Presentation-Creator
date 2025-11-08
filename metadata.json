@@ -1,0 +1,7 @@
+{
+  "name": "Audio-Visual Presentation Creator",
+  "description": "Synchronize audio with text, and generate image-rich presentations automatically.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
